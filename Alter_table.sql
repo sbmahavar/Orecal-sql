@@ -1,0 +1,1 @@
+ALTER TABLE emp ADD (Job_roal VARCHAR2(25));
