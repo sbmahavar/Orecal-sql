@@ -1,0 +1,1 @@
+ALTER TABLE emp MODIFY (Job_role VARCHAR2 (30));
