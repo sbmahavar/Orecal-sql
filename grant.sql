@@ -1,0 +1,1 @@
+GRANT SELECT ON Employee to shiva;
