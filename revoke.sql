@@ -1,0 +1,1 @@
+REVOKE SELECT ON employes From Shiva;
