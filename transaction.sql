@@ -25,9 +25,9 @@ SAVEPOINT SP2;
 
 INSERT INTO employees (id, name) VALUES (5, 'Charlie');
 
--- Rollback To secoud Saxepoint C Removes Chunlie ont only)
+-- Rollback To secoud Savepoint ( Removes Chunlie ont only)
 
-Roubak To SP2;
+Rollbak To SP2;
 
 -- COMMIT the Rest
 
