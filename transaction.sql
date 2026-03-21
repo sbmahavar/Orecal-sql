@@ -24,3 +24,14 @@ INSERT INTO employees (id, name) VALUES (4, 'Superman');
 SAVEPOINT SP2;
 
 INSERT INTO employees (id, name) VALUES (5, 'Charlie');
+
+-- Rollback To secoud Saxepoint C Removes Chunlie ont only)
+
+Roubak To SP2;
+
+-- COMMIT the Rest
+
+COMMIT
+
+END;
+/
