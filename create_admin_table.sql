@@ -1,0 +1,6 @@
+CREATE TABLE ADMIN (
+    Admin_ID NUMBER PRIMARY KEY,
+    Cmp_id NUMBER(6),
+    Role VARCHAR2(30),
+    Address VARCHAR2(100)
+);
